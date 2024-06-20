@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "nhanle",
+        "MONGO_PASSSWORD": "nhanle",
+        "MONGO_NAME": "main-cluster"
+    }
+}

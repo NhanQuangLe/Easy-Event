@@ -1,0 +1,24 @@
+.event-item {
+  display: flex;
+  border: 1px solid rgb(138, 3, 138);
+  padding: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: medium;
+}
+
+.event-item__head-info {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.event-item__head-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(138, 3, 138);
+}
+.event-item__head-sub-info {
+  color: black;
+}

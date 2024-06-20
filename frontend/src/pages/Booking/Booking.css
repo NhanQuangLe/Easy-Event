@@ -1,0 +1,16 @@
+.outer-booking__item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+
+  border: 2px solid rgb(138, 3, 138);
+}
+
+.container {
+  margin: 2rem auto;
+  width: 40rem;
+}
